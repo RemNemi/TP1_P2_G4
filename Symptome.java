@@ -7,4 +7,5 @@ public enum Symptome {
 	Maux_de_tête,
 	Courbatures,
 	Etourdissement
+		
 }
